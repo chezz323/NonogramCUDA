@@ -33,13 +33,13 @@ For example, one can find every possible case for the row of width 5 and with hi
 
 ## 1 Implementation
 ### 1.1 Initializing
-**1. Reading input file in the host and allocate memory to device **
-![image](https://user-images.githubusercontent.com/55457315/149345272-f5a176bb-0051-48fa-ac97-9a4e303acc57.png)
+__1. Reading input file in the host and allocate memory to device__  
+![image](https://user-images.githubusercontent.com/55457315/149345272-f5a176bb-0051-48fa-ac97-9a4e303acc57.png)  
 
-**2. Make data structure for Nonogram data **
-![image](https://user-images.githubusercontent.com/55457315/149345435-d3d64348-24dd-44c0-a2c6-a5184841e594.png)
+__2. Make data structure for Nonogram data__  
+![image](https://user-images.githubusercontent.com/55457315/149345435-d3d64348-24dd-44c0-a2c6-a5184841e594.png)  
 
-**3. Find every case for each row and columns **
+__3. Find every case for each row and columns__  
 ![image](https://user-images.githubusercontent.com/55457315/149345729-cbf200bf-d51d-4f5b-b51b-c41ef32c6f65.png)  
 ![image](https://user-images.githubusercontent.com/55457315/149345749-564df912-b86d-43f6-8a10-3ca11f9cf450.png)  
 ![image](https://user-images.githubusercontent.com/55457315/149345763-36e3d060-7978-4b6d-afe2-29bffc4c1471.png)  
