@@ -1,1 +1,1 @@
-# NonogramCUDA
+# Solution for Nonogram with CUDA
